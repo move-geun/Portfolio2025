@@ -22,7 +22,7 @@ export default function ProjectModal({ project, onClose }: ProjectModalProps) {
   return (
     <AnimatePresence>
       <Dialog open={!!project} onOpenChange={onClose}>
-        <DialogContent className="w-[65vw] max-w-none w-full max-h-[90vh] overflow-y-auto p-0">
+        <DialogContent className="!w-[65vw] !max-w-[65vw] max-w-none max-h-[90vh] overflow-y-auto p-0">
           <DialogTitle>{project.title}</DialogTitle>
           <motion.div
             initial={{ opacity: 0, scale: 0.9 }}
