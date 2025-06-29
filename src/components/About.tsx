@@ -10,7 +10,7 @@ export default function About() {
 
   const goToResume = () => {
     window.open(
-      "https://drive.google.com/file/d/1xCbDC7_GwrmsRAEDTVc5BXWdPRLW4sbP/view?usp=sharing",
+      "https://drive.google.com/file/d/164Ti_ts70qZXf1WB2ZYTa8gddUlA0Gw5/view?usp=sharing",
       "_blank"
     );
   };
