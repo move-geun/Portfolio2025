@@ -4,7 +4,7 @@
 - 당시에는 Mac 디자인도 따라하고, 콘솔 명령어로 페이지 이동하는 것을 구현해놓고선 꽤 만족했던 기억이 납니다.
 - 하지만 실무 경력도 쌓은 지금의 제가 보기엔 부족한 부분들이 많았습니다.
 - 이에 새로이 다시 만들었습니다. 그럼 즐겨주세요.
-- **[🙋‍♂️ Visit PortFolio2025](https://ui-frame.vercel.app/)**
+- **[🙋‍♂️ Visit PortFolio2025](https://portfolio2025-gules-kappa.vercel.app/)**
 
 ## ❓어떤식으로 이루어졌나요?
 
