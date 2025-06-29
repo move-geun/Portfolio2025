@@ -77,7 +77,7 @@ export default function About() {
               transition={{ duration: 0.8, delay: 0.2 }}
             >
               <img
-                src="https://github.com/user-attachments/assets/a37d4e4d-88a7-4188-a6c5-7ad6f98002d3"
+                src="/me.png"
                 alt="캐릭터사진"
                 className="rounded-2xl shadow-2xl w-full h-auto max-w-[400px] max-h-[400px]"
               />
